@@ -1,3 +1,3 @@
-# Hexa
+# Hexa  [ in development ]
 
-CMS framework for deno
+CMS framework for deno 🦕
